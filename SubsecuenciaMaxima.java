@@ -1,4 +1,10 @@
 # Vegas---SumaSubsecuenteMaxima
+
+/*
+Función tiempo: T(n)=a⋅n+b (dependiendo de las constantes específicas del codigo y la implementacion del ‘LinkedList‘)
+Función Asíntota: T(n) ∈ O(n)(complejidad lineal).
+*/
+    
 Suma de Subsecuencia Maxima
 package SubsecuenciaMaxima;
 
